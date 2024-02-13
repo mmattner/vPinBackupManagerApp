@@ -1,4 +1,6 @@
 ![image](https://github.com/mmattner/vPinBackupManagerApp/assets/483200/602aa57a-d35b-4d79-971a-9319df3b2161)
+PLEASE NOTE: Current documentation reflect v1.14 of VPBM. A new beta v2.0 has been release with some significant GUI changes, documentation for this version is currently best viewed by installing the beta and viewing from within the application.
+
 This Repository provides release binaries and a WIKI for the Virtual Pinball Backup Manager (VPBM) application.
 
 Visit the wiki [here](https://github.com/mmattner/vPinBackupManagerApp/wiki)
