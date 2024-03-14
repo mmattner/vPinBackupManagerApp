@@ -1,11 +1,10 @@
 ![image](https://github.com/mmattner/vPinBackupManagerApp/assets/483200/602aa57a-d35b-4d79-971a-9319df3b2161)
-PLEASE NOTE: Current documentation reflect v1.14 of VPBM. A new beta v2.0 has been release with some significant GUI changes, documentation for this version is currently best viewed by installing the beta and viewing from within the application.
 
 This Repository provides release binaries and a WIKI for the Virtual Pinball Backup Manager (VPBM) application.
 
 Visit the wiki [here](https://github.com/mmattner/vPinBackupManagerApp/wiki)
 
-![vpbmFullScreen](https://github.com/mmattner/vPinBackupManagerApp/assets/483200/cb68aec6-21c5-4fb7-accd-f9b4dd1fc69c)
+![vpbmFullScreen](https://github.com/mmattner/vPinBackupManagerApp/assets/483200/c7e5b394-ca19-4fcc-a9ca-59b2520eea08)
 
 
 Virtual Pinball Backup Manager (VPBM) is designed to manage backups of individual Virtual Pinball games within a Pinup System/Baller Installer installation. VPBM currently supports Visual Pinball (VPX) and Future Pinball emulators. Further information can be found [here](https://github.com/mmattner/vPinBackupManagerApp/wiki)
