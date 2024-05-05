@@ -20,4 +20,4 @@ VPBM is being used by VPin Studio to provide backup and restore functionality.
 
 VPin Studio documentation can be found [here](https://github.com/syd711/vpin-studio/wiki).
 
-Vpin Studio can be downloaded [here](https://github.com/mmattner/vPinBackupManagerApp/releases).
+Vpin Studio can be downloaded [here](https://github.com/syd711/vpin-studio/releases).
